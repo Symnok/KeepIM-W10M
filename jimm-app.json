@@ -23,8 +23,8 @@
     "homepage": "https://github.com/symnok",
     "platforms": [
         {
-            "os": "windows 10 mobile",
-            "min_version": "Windows 10 Mobile, build 1703",
+            "os": "windows",
+            "min_version": "W10M, build 1703",
             "source": {
                 "type": "github",
                 "repo": "symnok/keepim-w10m"
