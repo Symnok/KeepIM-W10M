@@ -3,7 +3,7 @@
     "schema": 1,
     "id": "keepim-w10m",
     "name": "KeepIM-W10M",
-    "summary": "ICQ/OSCAR IM клиент",
+    "summary": "ICQ/OSCAR IM клиент для Windows 10 Mobile",
     "description": "ICQ/OSCAR клиент для Windows 10 Mobile с UI максимально близким к Qip2005.\n Реализованы все основные функции клиентов ICQ. \n Реализована поддержка нескольких OSCAR аккаунтов от разных серверов. \n",
     "icon": "https://raw.githubusercontent.com/Symnok/KeepIM-W10M/main/qipim-512-white.png",
     "screenshots": [
@@ -24,7 +24,7 @@
     "platforms": [
         {
             "os": "windows",
-            "min_version": "W10M, build 1703",
+            "min_version": "1703",
             "source": {
                 "type": "github",
                 "repo": "symnok/keepim-w10m"
